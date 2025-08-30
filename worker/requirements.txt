@@ -1,0 +1,5 @@
+celery[redis]==5.3.6
+redis==5.0.1
+pymongo==4.6.1
+pdfplumber==0.11.0   # for PDF text extraction
+spacy==3.7.2         # for NLP entity extraction

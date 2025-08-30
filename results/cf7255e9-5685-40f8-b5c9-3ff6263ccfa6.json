@@ -1,0 +1,34 @@
+{
+  "contract_name": {
+    "value": "cf7255e9-5685-40f8-b5c9-3ff6263ccfa6",
+    "confidence": 0.9
+  },
+  "contract_id": {
+    "value": "SSA-2025-0001",
+    "confidence": 0.9
+  },
+  "effective_date": {
+    "value": "January 15, 2025",
+    "confidence": 0.9
+  },
+  "term": {
+    "value": "24 months",
+    "confidence": 0.9
+  },
+  "service_provider": {
+    "value": "TechSolutions Inc.",
+    "confidence": 0.9
+  },
+  "customer": {
+    "value": "Global Manufacturing Corp",
+    "confidence": 0.9
+  },
+  "total_value": {
+    "value": "242,500.00",
+    "confidence": 0.9
+  },
+  "payment_terms": {
+    "value": "Net 30 days from invoice date",
+    "confidence": 0.9
+  }
+}

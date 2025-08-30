@@ -1,0 +1,1 @@
+from app.parsers.contract_parser import parse_contract_task
