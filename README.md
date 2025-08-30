@@ -1,4 +1,4 @@
-# **Contract Intelligence Parser - Technical Assignment**
+# **Contract Intelligence Parser**
 
 ## **Problem Statement**
 
